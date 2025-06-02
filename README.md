@@ -27,8 +27,8 @@ A full-featured backend for property listing, search, recommendation, and user m
 ### 1. Clone the repository
 
 ```bash
-git clone https://your-repo-url.git
-cd backend
+git clone https://github.com/ABW1729/Property-Listing-System.git
+cd Property-Listing-System
 ```
 
 ### 2. Add Property listing data  
