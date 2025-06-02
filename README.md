@@ -85,9 +85,13 @@ docker compose up --build
 
 ---
 
-## Deployment
+
    
 ### Sample Usage:  
-http://localhost:5000/api/auth/register
+http://localhost:5000/api/auth/register  
 
+---  
+
+## Deployment
+http://51.20.134.106:5000/api/
 
