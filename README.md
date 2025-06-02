@@ -87,7 +87,7 @@ docker compose up --build
 
 
    
-### Sample Usage:  
+###  Local Usage:  
 http://localhost:5000/api/
 
 ---  
