@@ -72,9 +72,9 @@ docker compose up --build
 
 ### Favorites
 
-- `POST /api/favorites/:propertyId`
-- `GET /api/favorites`
-- `DELETE /api/favorites/:propertyId`
+- `POST /api/favorites/:propertyId`-Add favorites  
+- `GET /api/favorites` - Get favorites  
+- `DELETE /api/favorites/:propertyId`- Delete favorites  
 
 ### Recommendations
 
