@@ -11,8 +11,6 @@ A full-featured backend for property listing, search, recommendation, and user m
 - Favorites management
 - Property recommendation to other users
 - CSV import for bulk property addition
-- Docker-compatible (MongoDB and Redis)
-- Deployment-ready (e.g., Render)
 
 ## Tech Stack
 
