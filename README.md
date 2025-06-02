@@ -88,7 +88,7 @@ docker compose up --build
 
    
 ### Sample Usage:  
-http://localhost:5000/api/auth/register  
+http://localhost:5000/api/
 
 ---  
 
