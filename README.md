@@ -31,6 +31,10 @@ git clone https://your-repo-url.git
 cd backend
 ```
 
+### 2. Add Property listing data  
+
+Place CSV file inside scripts/data folder  
+
 ### 2. Set up environment variables
 
 Create a `.env` file:
